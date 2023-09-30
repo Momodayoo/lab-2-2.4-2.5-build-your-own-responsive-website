@@ -75,7 +75,7 @@ img{
 .showcase {
     grid-area: showcase;
     min-height: 400px;
-    background: url(images/showcase.jpg);
+    background: url(images/What-Is-A-Domain-Name-Featured.png);
     background-size: cover;
     background-position: center;
     padding: 3rem;
